@@ -1,10 +1,9 @@
 # botlhale-dev
 
-## 👋 Hi, I'm Junior (botlhale-dev)
+## 👋 Hi, I'm Botlhale
 
 🎓 First-year System Development student  
 💻 Aspiring Software Developer  
-🌍 South Africa  
 
 ---
 
@@ -35,4 +34,5 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=botlhale-dev&show_icons=true&theme=radical)
 
-![Coding GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Coding](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
