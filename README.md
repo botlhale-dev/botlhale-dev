@@ -34,5 +34,6 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=botlhale-dev&show_icons=true&theme=radical)
 
-![Coding](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Laptop](https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif)
+
 
