@@ -24,15 +24,18 @@
 
 ---
 
+### 📜 Certifications
+- FNB App Academy – Full Stack Development (2025)
+  Hands-on training in HTML, CSS, JavaScript, UX design, API integration, backend development and GitHub collaboration.
+
+---
+
 ### 🎯 Goals
 - Secure an internship or learnership in software development  
 - Build real-world projects  
 - Grow as a developer and contribute to open-source
 
 ---
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=botlhale-dev&show_icons=true&theme=radical)
 
 ![Laptop](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms0dTVtYjgxYjl2N3c3MjAxYWdvYWl2Z3FxZHFpcnBtZWNlcmZmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)
 
